@@ -4,7 +4,7 @@
 
 ### **About Me**  
 🚀 Backend Developer specializing in **TypeScript**  
-🎮 Focused on **Fortnite Private Server Backends** (e.g., [Eclipse](https://discord.gg/eclipsemp))  
+🎮 Focused on **Fortnite Backends** (e.g., Fire & Gold used for [Eclipse](https://discord.gg/eclipsemp))  
 🌐 Check out my [Website](https://notsecret.eclipsemp.org)  
 
 ### **Languages I Use**  
